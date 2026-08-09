@@ -1,0 +1,14 @@
+# Local credentials -- never commit
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Stray figures generated outside docs/
+/*.png
+
+# OS noise
+.DS_Store
